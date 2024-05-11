@@ -1,45 +1,25 @@
-Here's a sample GitHub profile README for a Data Analyst with expertise in Python, C++, computer vision, AWS, and a passion for research and applications in Computer Vision and AI:
+<h1 align="center">Hi 👋, I'm Writabrata Dey</h1>
+<h3 align="center">Data Analyst</h3>
 
-```markdown
-# Hi there! 👋 I'm Writabrata Dey
+- 🔭 I’m currently working on **Satellite Image Semantic Segmentation**
 
-## About Me
-I'm a Data Analyst with a keen interest in Computer Vision and Artificial Intelligence. My background includes solid skills in Python, C++, and AWS, which I leverage to develop innovative solutions and insights.
+- 🌱 I’m currently learning **Computer Vision, Robotics**
 
-## Skills
-- **Programming Languages:** Python, C++
-- **Tools & Technologies:** AWS (Amazon Web Services), Git, Docker
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
-- **Computer Vision:** OpenCV, TensorFlow, PyTorch
-- **Machine Learning:** Scikit-Learn, Keras
-- **Database:** SQL, SQLite
-- **Version Control:** Git, GitHub
+- 💬 Ask me about **Python, Data Analysis, Machine Learning**
 
-## Projects
-- **Object Detection using YOLOv4:** Developed an object detection model using YOLOv4 on COCO dataset achieving 90% accuracy.
-- **Facial Recognition System:** Implemented a facial recognition system using OpenCV and dlib for real-time face detection and recognition.
-- **AWS Cloud Infrastructure Setup:** Designed and deployed scalable AWS infrastructure for data processing and analysis.
+- 📫 How to reach me **writabratadey@gmail.com**
 
-## Research & Publications
-- **Title:** Advanced Techniques in Image Segmentation for Medical Imaging
-  - **Journal:** IEEE Transactions on Medical Imaging
-  - **Year:** 2023
-- **Title:** Deep Learning Approaches for Video Analysis in Surveillance Systems
-  - **Conference:** International Conference on Computer Vision (ICCV)
-  - **Year:** 2022
+- 📄 Know about my experiences [https://github.com/WRD397/Documents/blob/main/WritabrataDey_CV.pdf](https://github.com/WRD397/Documents/blob/main/WritabrataDey_CV.pdf)
 
-## Education
-- **Master of Science in Data Science** - XYZ University
-- **Bachelor of Engineering in Computer Science** - ABC University
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/wrt397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wrt397" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/writabrata-dey-680903200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/writabrata-dey-680903200/" height="30" width="40" /></a>
+<a href="https://instagram.com/_.writabrata._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.writabrata._" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/writd97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="writd97" height="30" width="40" /></a>
+</p>
 
-## Certifications
-- AWS Certified Solutions Architect - Associate
-- Python for Data Science Certification
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## Contact Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Personal Website/Blog: [Your Blog](https://yourblog.com)
-```
-
-Feel free to customize the content and add more details based on your actual experience, projects, and achievements.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wrd397&show_icons=true&locale=en" alt="wrd397" /></p>
