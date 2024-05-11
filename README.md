@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Writabrata Dey</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Analyst, [DSP Asset Managers](https://www.dspim.com/)</h3>
+<p>
+A Data Science and Machine Learning professional passionate about cutting-edge reaserches in the realms of AI and it's applications in Computer Vision, Robotics, and Data Science. </br>
+Master of Science in Physics (spec. in Astrophysics) </br> 
+Skilled in Python, C++, Advanced SQL, Linux, Git, AWS, and various ML tools. </br>
+Experienced in implementing ML models, model pipeline maintenance, statistical analysis, and business analysis. 
+</p>
 
 - 🔭 I’m currently working on **Satellite Image Semantic Segmentation**
 
@@ -15,8 +21,8 @@
 <p align="left">
 <a href="https://twitter.com/wrt397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wrt397" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/writabrata-dey-680903200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/writabrata-dey-680903200/" height="30" width="40" /></a>
-<a href="https://instagram.com/_.writabrata._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.writabrata._" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/writd97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="writd97" height="30" width="40" /></a>
+<a href="https://instagram.com/_.writabrata._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.writabrata._" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
