@@ -4,7 +4,7 @@
 &emsp;A Data Science and Machine Learning professional passionate about cutting-edge research in the realms of AI and its applications in Computer Vision, Robotics, and Data Science. I have day-to-day responsibilities of ML model pipeline maintenance, model implementations and Statistical Data Analysis in order to implement long-term as well as time-sensitive business strategies, which makes me proficient with tools and skillsets like Python, C++, Advanced SQL, Supervised as well as Unsupervised ML, Linux, Git, multiple AWS services and more. In order to master the basics of Computer Science, I have been learning the subjects of Operating Systems, Data Structure and Algorithm through multiple hands-on projects as well as from theoretical perspectives. Having a Masters in Physics with a spec. in Astrophysics and a keen interest in these domains, my strong mathematical background along with the intrinsic nature of diving deep into subjects, allowed me to hone the fundamentals of these subjects pretty clearly. Being a perpetual learner, I am eager to push boundaries and contribute meaningfully to the ever-evolving realms of Artificial Intelligence. 
 </p>
 
-- 🔭 I’m currently working on **Satellite Image Semantic Segmentation**
+- 🔭 I’m currently working on <a href="https://github.com/WRD397/Projects/tree/main/SemanticSegmentationSatelliteImagery">**Satellite Image Semantic Segmentation**</a>
 
 - 🌱 I’m currently learning **Computer Vision, Basics of Robotics**
 
