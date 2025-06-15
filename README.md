@@ -83,7 +83,7 @@
   </a>&nbsp;&nbsp;&nbsp;
 -->
   <a href="https://wandb.ai/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/WRD397/WRD397/blob/main/asset/icons/wandb900.png" alt="Weights & Biases" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://github.com/WRD397/WRD397/blob/main/asset/icons/wandb900.png" alt="Weights & Biases" width="50" height="50" style="margin-right: 10px;" />
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.runpod.io/" target="_blank" rel="noreferrer">
