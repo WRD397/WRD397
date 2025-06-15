@@ -87,7 +87,7 @@
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.runpod.io/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/101334901?s=200&v=4" alt="RunPod" width="40" height="40" style="margin-right: 10px; border-radius: 8px;" />
+    <img src="https://github.com/WRD397/WRD397/blob/main/asset/icons/runpod40.png" alt="RunPod" width="40" height="40" style="margin-right: 10px; border-radius: 8px;" />
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
