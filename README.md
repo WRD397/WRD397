@@ -77,6 +77,14 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" style="margin-right: 10px;" />
   </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://wandb.ai/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/W%26B_Logo_Icon.png" alt="Weights & Biases" width="40" height="40" style="margin-right: 10px;" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.runpod.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/101334901?s=200&v=4" alt="RunPod" width="40" height="40" style="margin-right: 10px; border-radius: 8px;" />
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <!--
