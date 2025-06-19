@@ -4,13 +4,13 @@
 &emsp;Data Science and Machine Learning professional with a strong foundation in AI and a focus on its applications in Computer Vision, Robotics, and Data Science. I work extensively on ML model pipelines, implementations, and statistical analysis to support both strategic and time-sensitive business decisions. This has equipped me with proficiency in Python, C++, Advanced SQL, Supervised and Unsupervised ML, Linux, Git, and AWS services.To deepen my understanding of core Computer Science concepts, I am actively studying Operating Systems, Data Structures, and Algorithms through both theoretical study and hands-on projects. In parallel, I’m focusing on the foundations of deep learning—exploring the architecture and training dynamics of transformers and neural networks, while engaging extensively with both current and foundational research papers and thesis work. With a Master’s in Physics (specialization in Astrophysics) and a strong mathematical background, I bring an analytical mindset and a habit of diving deep into complex subjects. A lifelong learner, I’m eager to push boundaries and contribute meaningfully to the evolving landscape of Artificial Intelligence.
 </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/WRD397/ViT_REPLICATION">**ViT Paper Replication**</a>
+- 🔭 Currently working on <a href="https://github.com/WRD397/ViT_REPLICATION">**ViT Paper Replication**</a>
 
 - 💬 Ask me about **Python, Data Analysis, Machine Learning**
 
-- 📫 How to reach me **writabratadey@gmail.com**
+- 📫 Reach me at **writabratadey@gmail.com**
 
-- 📄 Know about my experiences [Curriculum Vitae](https://github.com/WRD397/Documents/blob/main/WritabrataDey_CV.pdf)
+- 📄 My experiences [Curriculum Vitae](https://github.com/WRD397/Documents/blob/main/WritabrataDey_CV.pdf)
 
 </br></br>
 
